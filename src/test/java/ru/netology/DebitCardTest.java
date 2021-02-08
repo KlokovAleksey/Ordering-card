@@ -10,7 +10,7 @@ public class DebitCardTest {
 
 
     @Test
-    void shouldSubmitForm (){
+    void shouldSubmitForm() {
 
         open("http://localhost:9999");
         $("[type=text]").setValue("Иванов-Петров Иван");
