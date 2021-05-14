@@ -15,5 +15,6 @@
 
 <img width="517" alt="success" src="https://user-images.githubusercontent.com/68289203/118326118-2bdc6b00-b50d-11eb-831c-ee8c694c5bea.png">
 
+Для запуска выполнить команду : ```gradlew clean test```
 
 # [![Build status](https://ci.appveyor.com/api/projects/status/ug02tej3wtm4xxr2?svg=true)](https://ci.appveyor.com/project/KlokovAleksey/ordering-card)
